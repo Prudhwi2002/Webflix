@@ -124,20 +124,20 @@ font-size: 25px;
   height: 700px;
 
  }
- .img1
+  .img1
 
+ {
+
+  margin-left: 10%;
   margin-top: 1px;
   margin-bottom:50px;
   width: 480px;
   height: 310px;
  }
-.img2
-{
-     margin-left:50%;
-
-}
-
- .topnav3{
+.img2{
+  margin-left:50%;
+  }
+.topnav3{
   background-color:black;
   box-shadow: inset 0 0 0 1000px rgb(0, 0, 0);
   border-top: 2px solid white;
