@@ -125,13 +125,17 @@ font-size: 25px;
 
  }
  .img1
- {
-  
+
   margin-top: 1px;
   margin-bottom:50px;
   width: 480px;
   height: 310px;
  }
+.img2
+{
+     margin-left:50%;
+
+}
 
  .topnav3{
   background-color:black;
