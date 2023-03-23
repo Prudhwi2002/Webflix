@@ -124,7 +124,7 @@ font-size: 25px;
   height: 700px;
 
  }
-  .img1
+  .img2
 
  {
 
@@ -134,9 +134,15 @@ font-size: 25px;
   width: 480px;
   height: 310px;
  }
-.img2{
+.img1{
   margin-left:50%;
   }
+.img3
+{
+  width: 480px;
+  height: 310px;
+}
+
 .topnav3{
   background-color:black;
   box-shadow: inset 0 0 0 1000px rgb(0, 0, 0);
