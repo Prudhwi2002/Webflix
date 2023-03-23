@@ -125,17 +125,15 @@ font-size: 25px;
 
  }
   .img2
-
  {
-
+  margin-left:50%;
+ }
+.img1{
   margin-left: 10%;
   margin-top: 1px;
   margin-bottom:50px;
   width: 526px;
   height:470px;
- }
-.img1{
-  margin-left:50%;
   }
 .img3
 {
